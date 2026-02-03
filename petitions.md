@@ -10,6 +10,6 @@ Our organization supports the following petitions. We encourage you to read them
 
 <div>
 <ul>
-<li><a href="{{ '/petitions/academicsForIran/' | relative_url }}">Academics For Iran 2026</a></li>
+<li><a href="{{ '/petitions/academicsforiran/' | relative_url }}">Academics For Iran 2026</a></li>
 </ul>
 </div>

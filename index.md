@@ -28,7 +28,7 @@ who are fighting for their human rights.</p>
             <p>
               We will be in Munich on 14th of February 2026 in solidarity with Iran's Lion-and-Sun Revolution, a day to take to the streets and compel the international community to take urgent, practical steps in support of the Iranian people.
             </p>
-            <p><a href="{{ '/events/munichFeb2026/' | relative_url }}">read more...</a></p>
+            <p><a href="{{ '/events/munichfeb2026/' | relative_url }}">read more...</a></p>
         </article>
 
         <article class="news-item">
@@ -36,7 +36,7 @@ who are fighting for their human rights.</p>
             <p>
               Petition to be signed by academics in diaspora supporting the ongoing revolution and its transitional leader.
             </p>
-            <p><a href="{{ '/petitions/academicsForIran/' | relative_url }}">read more...</a></p>
+            <p><a href="{{ '/petitions/academicsforiran/' | relative_url }}">read more...</a></p>
         </article>
 </section>
 

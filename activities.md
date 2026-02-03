@@ -14,7 +14,7 @@ Below is an overview of the activities our association organizes or actively sup
 <section class="news">
   <article class="news-item">
     <div class="image-center">
-       <a href="{{ '/events/munichFeb2026/' | relative_url }}"> <img src="{{ '/assets/images/munich_2026.jpeg' | relative_url }}"
+       <a href="{{ '/events/munichfeb2026/' | relative_url }}"> <img src="{{ '/assets/images/munich_2026.jpeg' | relative_url }}"
              alt="Munich Feb 2026"
              class="news-pic"/> </a></div>
     <h3>Global Day of Action (Munich, Germany)</h3>
@@ -31,7 +31,7 @@ Below is an overview of the activities our association organizes or actively sup
           <li>Prepare to recognize a legitimate transitional government to lead Iran toward democracy</li>
         </ul>
     </p>
-    <p><a href="{{ '/events/munichFeb2026/' | relative_url }}">read more...</a></p>
+    <p><a href="{{ '/events/munichfeb2026/' | relative_url }}">read more...</a></p>
   </article>
 </section>
 </div>
