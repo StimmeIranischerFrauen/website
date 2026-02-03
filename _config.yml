@@ -1,7 +1,7 @@
 title: Stimme Iranischer Frauen (CH)
 description: Voice of Iranian Women (CH) - A volunteer-based non-profit organization founded in Basel, Switzerland
-url: ""
-baseurl: ""
+url: "https://stimmeiranischerfrauen.github.io"
+baseurl: "/website"
 
 # Collections for events and petitions
 collections:
