@@ -3,7 +3,8 @@ layout: default
 title: Global Day of Action - Munich
 ---
 
-# Global Day of Action, Munich, Germany, 14.02.2026
+# Global Day of Action, 14.02.2026 at 13:00
+## Theresienwiese 80336, Munich, Germany 
 
 <div class="image-center">
 <img src="{{ '/assets/images/munich_2026.jpeg' | relative_url }}"
@@ -39,5 +40,5 @@ Long live Iran.
 Victory to Iran's Lion-and-Sun Revolution.
 
 ## Transport from Switzerland to Munich
-Details will be announced here soon.
-For bus transport registration please see [here](https://t.me/+vV_UQhHnc8QyZThi).
+We have actively contributed to coordinating transportation to the rally. To register for buses from Zurich or Basel to
+ Munich, please see [here](https://t.me/+vV_UQhHnc8QyZThi).
