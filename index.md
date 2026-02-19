@@ -23,7 +23,7 @@ Iranians, especially women, at the forefront of the struggle for freedom, dignit
     <h2>News and Upcoming Events:</h2>
 
         <article class="news-item">
-            <h3>Memorial for Victims of Iran & Lion Revolution (Bern)</h3>
+            <h3>Memorial for the Victims of Iran's Lion & Sun Revolution (Bern)</h3>
             <p class="news-date">21 February 2026, 14:00-15:30</p>
             <p>
               We will be in Bern, in front of the Islamic Republic embassy, on the 21st of February 2026 for a memorial ceremony for the victims of Iran's Lion-and-Sun Revolution.<br/>
