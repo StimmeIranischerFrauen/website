@@ -10,8 +10,10 @@ Our organization supports the following petitions. We encourage you to read them
 
 <div>
 <ul>
+<li><a href="https://actionnetwork.org/petitions/switzerland-must-not-enable-the-islamic-republic-act-now-for-a-democratic-iran?source=direct_link&">Swiss Residents in Support of a Democratic Transition in Iran</a></li>
+<br/>
 <li><a href="https://c.org/Vdy8YbcFw4">Feminists of the Iranian Diaspora for a Democratic Transition</a></li>
 <br/>
-<li><a href="{{ '/petitions/academicsforiran/' | relative_url }}">Academics For Iran 2026</a></li>
+<li><a href="https://actionnetwork.org/petitions/academics-of-the-iranian-diaspora-against-state-violence-and-for-a-democratic-transition?source=direct_link&">Academics of the Iranian Diaspora for a Democratic Transition</a></li>
 </ul>
 </div>

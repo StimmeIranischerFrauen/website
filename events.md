@@ -1,15 +1,32 @@
 ---
 layout: default
-title: Activities
-permalink: /activities/
+title: Events
+permalink: /events/
 ---
 
-# Activities
+# Events
 
 Below is an overview of the activities our association organizes or actively supports.
 
 ## Upcoming Events:
+<div>
+<section class="news">
+  <article class="news-item">
+    <div class="image-center">
+       <a href="{{ '/events/bernVigil/' | relative_url }}"> <img src="{{ '/assets/images/bern_vigil.jpg' | relative_url }}"
+             alt="Bern Vigil"
+             class="news-pic"/> </a></div>
+    <h3>Memorial for the victims of the Lion and Sun revolution</h3>
+    <p class="news-date">21 February 2026, 14:00-15:30</p>
+    <p>
+    We will be in Bern on 21st of February 2026 for a memorial ceremony for the victims of Iran's Lion-and-Sun Revolution.<br/>
+    </p>
+    <p><a href="{{ '/events/bernVigil/' | relative_url }}">read more...</a></p>
+  </article>
+</section>
+</div>
 
+## Past Events:
 <div>
 <section class="news">
   <article class="news-item">

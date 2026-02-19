@@ -23,20 +23,19 @@ Iranians, especially women, at the forefront of the struggle for freedom, dignit
     <h2>News and Upcoming Events:</h2>
 
         <article class="news-item">
-            <h3>Global Day of Action (Munich, Germany)</h3>
-            <p class="news-date">14 February 2026</p>
+            <h3>Memorial for Victims of Iran & Lion Revolution (Bern)</h3>
+            <p class="news-date">21 February 2026, 14:00-15:30</p>
             <p>
-              We will be in Munich on 14th of February 2026 in solidarity with Iran's Lion-and-Sun Revolution, a day to take to the streets and compel the international community to take urgent, practical steps in support of the Iranian people.
+              We will be in Bern, in front of the Islamic Republic embassy, on the 21st of February 2026 for a memorial ceremony for the victims of Iran's Lion-and-Sun Revolution.<br/>
             </p>
-            <p><a href="{{ '/events/munichfeb2026/' | relative_url }}">read more...</a></p>
+            <p><a href="{{ '/events/bernVigil/' | relative_url }}">read more...</a></p>
         </article>
 
         <article class="news-item">
-            <h3>Petition: Academics For Iran</h3>
+            <h3>Petitions</h3>
             <p>
-              Petition to be signed by academics in diaspora supporting the ongoing revolution and its transitional leader.
+                Please consider supporting Iranians in their fight for freedom by signing and sharing the petitions listed <a href="{{ '/petitions/' | relative_url }}">here</a>. 
             </p>
-            <p><a href="{{ '/petitions/academicsforiran/' | relative_url }}">read more...</a></p>
         </article>
 </section>
 
