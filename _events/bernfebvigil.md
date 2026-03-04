@@ -6,7 +6,7 @@ title: Memorial for victims of Iran's Sun & Lion Revolution - Bern
 # Memorial for the Victims of Iran's Lion and Sun Revolution
 <div>
 <p class="news-date">Thunstrasse 68, 3006 Bern</p>
-<p class="news-date">21 February 2026, 14:00-15:30</p>
+<p class="news-date">21.02.2026, 14:00–15:30</p>
 </div>
 <div class="image-center">
 <img src="{{ '/assets/images/bern_vigil.jpg' | relative_url }}"

@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -16,9 +19,10 @@
         </a>
       </div>
       <div class="nav-right">
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/events/' | relative_url }}">Events</a>
-        <a href="{{ '/petitions/' | relative_url }}">Petitions</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="active"{% endif %}>About</a>
+        <a href="{{ '/events/' | relative_url }}"{% if page.url contains '/events' %} class="active"{% endif %}>Events</a>
+        <a href="{{ '/petitions/' | relative_url }}"{% if page.url contains '/petitions' %} class="active"{% endif %}>Petitions</a>
+        <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} class="active"{% endif %}>Contact</a>
       </div>
     </nav>
 
@@ -34,10 +38,10 @@
           <span class="footer-title">Stimme Iranischer Frauen (CH)</span>
         </div>
         <div class="footer-icons">
-          <a href="https://github.com" aria-label="GitHub">
-            <img src="{{ '/assets/images/github_icon.svg' | relative_url }}" alt="GitHub" height="24">
+          <a href="https://x.com/SIFrauen" aria-label="X (Twitter)" target="_blank" rel="noopener">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="#1a1a1a"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
           </a>
-          <a href="https://instagram.com" aria-label="Instagram">
+          <a href="https://www.instagram.com/stimmeiranischerfrauen_schweiz" aria-label="Instagram">
             <img src="{{ '/assets/images/Instagram_icon.png' | relative_url }}" alt="Instagram" height="24">
           </a>
         </div>

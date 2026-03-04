@@ -1,13 +1,16 @@
-# Use Homebrew Ruby
-export PATH := "/opt/homebrew/opt/ruby/bin:" + env_var("PATH")
+# List available recipes
+default:
+    @just --list
 
-# Install Ruby dependencies
+# Install everything (mise + ruby gems)
 install:
+    command -v mise >/dev/null || brew install mise
+    mise install
     bundle install
 
 # Build and serve the site locally
 serve:
-    bundle exec jekyll serve
+    bundle exec jekyll serve --baseurl "" --livereload
 
 # Build the site for production
 build:

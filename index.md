@@ -17,26 +17,24 @@ Iranians, especially women, at the forefront of the struggle for freedom, dignit
   </div>
 
 </div>
-<div>
-<section class="news">
+## News and Upcoming Events
 
-    <h2>News and Upcoming Events:</h2>
+<div class="event-cards">
 
-        <article class="news-item">
-            <h3>Memorial for the Victims of Iran's Lion & Sun Revolution (Bern)</h3>
-            <p class="news-date">21 February 2026, 14:00-15:30</p>
-            <p>
-              We will be in Bern, in front of the Islamic Republic embassy, on the 21st of February 2026 for a memorial ceremony for the victims of Iran's Lion-and-Sun Revolution.<br/>
-            </p>
-            <p><a href="{{ '/events/bernfebvigil/' | relative_url }}">read more...</a></p>
-        </article>
+  <a href="{{ '/events/bernfebvigil/' | relative_url }}" class="event-card">
+    <img src="{{ '/assets/images/bern_vigil.jpg' | relative_url }}" alt="Bern Vigil" class="event-card-img">
+    <div class="event-card-body">
+      <p class="news-date">21.02.2026, 14:00–15:30</p>
+      <h3>Memorial for the Victims of Iran's Lion &amp; Sun Revolution (Bern)</h3>
+      <p>We will be in Bern, in front of the Islamic Republic embassy, for a memorial ceremony for the victims of Iran's Lion-and-Sun Revolution.</p>
+      <span class="petition-cta">Read more &rarr;</span>
+    </div>
+  </a>
 
-        <article class="news-item">
-            <h3>Petitions</h3>
-            <p>
-                Please consider supporting Iranians in their fight for freedom by signing and sharing the petitions listed <a href="{{ '/petitions/' | relative_url }}">here</a>. 
-            </p>
-        </article>
-</section>
+  <a href="{{ '/petitions/' | relative_url }}" class="petition-card">
+    <h3>Petitions</h3>
+    <p>Please consider supporting Iranians in their fight for freedom by signing and sharing our petitions.</p>
+    <span class="petition-cta">View petitions &rarr;</span>
+  </a>
 
 </div>
