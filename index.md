@@ -6,11 +6,11 @@ title: Home
 <div class="hero">
 
   <div class="hero-left">
-    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Stimme Iranischer Frauen (CH) Logo" class="hero-logo">
+    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Stimme iranischer Frauen (CH) Logo" class="hero-logo">
   </div>
 
   <div class="hero-right">
-    <h1>Stimme Iranischer Frauen (CH)</h1>
+    <h1>Stimme iranischer Frauen (CH)</h1>
     <h3 class="hero-subtitle">Voice of Iranian Women (CH)</h3>
     <p>A volunteer-led, non-profit initiative founded in Basel, Switzerland to amplify the voices of courageous 
 Iranians, especially women, at the forefront of the struggle for freedom, dignity, and human rights.</p>

@@ -11,7 +11,7 @@ permalink: /about/
              alt="Protesters wearing white masks hold signs for Mahsa Amini at a Woman, Life, Freedom demonstration in Switzerland">
 </div>
 
-**Stimme Iranischer Frauen (CH)** (Voices of Iranian Women – Switzerland) was founded in Basel in 2022 during the Woman, Life, Freedom movement. The association emerged in response to the widespread protests in Iran and the urgent need to amplify the voices of Iranian dissidents advocating for fundamental human rights and freedom from a totalitarian theocratic regime.
+**Stimme iranischer Frauen (CH)** (Voices of Iranian Women – Switzerland) was founded in Basel in 2022 during the Woman, Life, Freedom movement. The association emerged in response to the widespread protests in Iran and the urgent need to amplify the voices of Iranian dissidents advocating for fundamental human rights and freedom from a totalitarian theocratic regime.
 
 ## Our Mission
 
@@ -19,7 +19,7 @@ We are a non-profit, volunteer-based association committed to supporting Iranian
 
 ## Collaborations
 
-Stimme Iranischer Frauen (CH) collaborates closely with international NGOs, civil society organizations, and advocacy groups working on Iran-related issues, human rights, and women's rights. Through these collaborations, we aim to strengthen transnational solidarity and coordinated action.
+Stimme iranischer Frauen (CH) collaborates closely with international NGOs, civil society organizations, and advocacy groups working on Iran-related issues, human rights, and women's rights. Through these collaborations, we aim to strengthen transnational solidarity and coordinated action.
 
 ## Our Focus
 
