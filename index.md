@@ -21,16 +21,6 @@ Iranians, especially women, at the forefront of the struggle for freedom, dignit
 
 <div class="event-cards">
 
-  <a href="{{ '/events/zurichmarch7/' | relative_url }}" class="event-card">
-    <img src="{{ '/assets/images/zurich_march7.png' | relative_url }}" alt="Zurich Rally" class="event-card-img">
-    <div class="event-card-body">
-      <p class="news-date">07.03.2026, 17:00–18:45</p>
-      <h3>Rally in solidarity with Iran’s Lion-and-Sun Revolution.</h3>
-      <p>We, residents of Switzerland, stand in solidarity with the people of Iran and their courageous fight for freedom.</p>
-      <span class="petition-cta">Read more &rarr;</span>
-    </div>
-  </a>
-
   <a href="{{ '/petitions/' | relative_url }}" class="petition-card">
     <h3>Petitions</h3>
     <p>Please consider supporting Iranians in their fight for freedom by signing and sharing our petitions.</p>
